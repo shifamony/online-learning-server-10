@@ -1,0 +1,148 @@
+[
+   {
+      "id": "f69a695f037cd9484cecaea37ca71011",
+      
+      "category_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_students": 400,
+      "title": "HTML5 Essentials for Beginners",
+      "author": {
+        "name": "Simon Sez",
+        "published_date": "2022-08-30",
+		"price" : "$16.99",
+        "img": "https://www.techfor.id/wp-content/uploads/2019/12/html.png"
+      },
+      
+      "image_url": "https://www.techfor.id/wp-content/uploads/2019/12/html.png",
+      "details": "Discover the essentials of HTML5 during this 1 hour crash course.Build Responsive Real-World Websites with HTML and CSS. Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid."
+    },
+
+
+	{
+      "id": "11468ed61aee84de492a8b04158a22f0",
+      
+      "category_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_students": 61209,
+      "title": "Learn how to code in CSS in 1 hour. This class is set up for complete beginners!",
+      "author": {
+        "name": "Devid Paul",
+        "published_date": "2022-08-30",
+		"price" : "$13.99",
+        "img": "https://www.develop4fun.fr/wp-content/uploads/2020/02/1-OFsc0SD55jhi8cjo7aCA4w.jpeg"
+      },
+      
+      "image_url": "https://www.develop4fun.fr/wp-content/uploads/2020/02/1-OFsc0SD55jhi8cjo7aCA4w.jpeg",
+      "details": "CSS or Cascading Style Sheets is a style sheet language used to style markup language. Markup languages include HTML, XHML, XML, and other XML-based languages. The most common use of CSS is to style HTML web pages. Although HTML doesn't need CSS to function, every web page would look the same without it. With CSS, you can target specific elements in a web page and change the look and arrangement on the page. CSS can make an embedded image small or cover the entire webpage as a background. You can enlarge a heading and apply a specific font to stand out from the rest of the page. Other things you can do with CSS include changing the color of elements, making elements float to one side of the page, and the list goes on. Every web page uses HTML, and every web page that has its unique look uses CSS."
+    },
+	
+	 {
+      "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_students": 44835,
+      "title": "Bootstrap 5 Course - The Complete Guide Step by Step (2022)",
+      "author": {
+        "name": "John Doe",
+        "published_date": "2022-08-24",
+		"price" : "$19.99",
+        "img": "https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg"
+      },
+   
+      "image_url": "https://www.bootstrapdash.com/wp-content/uploads/2017/08/bootstrap-4-beta-whats-new.jpg",
+	  
+      "details": "Build 3 Live Real-World Projects with the Latest Bootstrap 5 CSS Framework. Complete In-Depth Training on Bootstrap 5. A great introduction to Bootstrap. After taking this course I feel I have the knowledge to start working on my own projects and will be able to design my own themes."
+    },
+	
+   {
+      "id": "7c4dfea0fafddc813673282a428429b7",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_students": 693201,
+      "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+      "author": {
+        "name": "John Doe",
+        "published_date": "2022-08-24",
+		"price" : "$19.99",
+        "img": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/09/What-is-JavaScript-1.png"
+      },
+   
+      "image_url": "https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/09/What-is-JavaScript-1.png",
+      "details": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one! JavaScript is a curly-braced, dynamically typed, prototype-based, object-oriented programming language. It started as the programming language for the web and is one of the three layers of standard web technologies — the other two being HTML and CSS. JavaScript allows you to create and control content dynamically on a web page without requiring a page reload. Web browsers are able to interpret it, and when triggered by events, modify the HTML and CSS of a web page with dynamic updates. JavaScript also uses asynchronous calls to fetch data from web services in the background. Although it was initially only used in web browsers, JavaScript engines have since been put to use as servers with Node.js, included in desktop application frameworks like Electron, and embedded in phone frameworks like Apache Cordova."
+    },
+
+    {
+      "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_students": 216567,
+      "title": "React JS- Complete Guide for Frontend Web Development [2022]",
+      "author": {
+        "name": "Quifi Khan",
+        "published_date": "2022-08-24",
+		"price" : "$19.99",
+        "img": "https://onlinecoursetutorials.com/wp-content/uploads/2022/02/what-is-reactjs-advantages-and-disadvantages.png"
+      },
+   
+      "image_url": "https://onlinecoursetutorials.com/wp-content/uploads/2022/02/what-is-reactjs-advantages-and-disadvantages.png",
+      "details": "Become an expert React JS Developer. Learn HTML, CSS, JavaScript, ES6, React JS and jQuery. React is a front-end library in Javascript that was developed by Facebook. The simplest definition of React is that it is a user interface library used for building UI components for the web. But if that was all React did, it would be little more than a template library. Developers define components in React by using an HTML-like syntax called JSX. These encapsulated components manage their own state, making it simple to pass rich data to a component and keep the state of the application and its components out of the Document Object Model (DOM). These features give React components the ability to react dynamically and efficiently to changes in their state. A set of simple components in React can be composed into either simple single-page applications or large, complex web applications."
+    },
+
+    {
+      "id": "11468ed61aee84de492a8b04158a22f9",
+      
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_students": 121193,
+      "title": "Learn and Understand NodeJS",
+      "author": {
+        "name": "Ryan Dhungel",
+        "published_date": "2022-08-24",
+		"price" : "$18.99",
+        "img": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/nodejs-reference-architecture_2x.png?itok=IADzXWmx"
+      },
+   
+      "image_url": "https://developers.redhat.com/sites/default/files/styles/article_feature/public/nodejs-reference-architecture_2x.png?itok=IADzXWmx",
+      "details": "Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.Node.Js is a server environment built for fast and easily scalable network applications. It was built on Chrome’s JavaScript runtime and uses an event-driven, non-blocking model that makes it the best fit for applications that run on distributed devices and need to run in real-time. By using JavaScript, node.Js can be put to work by many software developers familiar with JavaScript. Because the code is open-source, you can also use it on any platform (Mac OS, Windows, or Linux). Node.js is the architecture for creating websites and real-time applications because it’s easy for teams to learn, and it’s fast. Examples of applications that use node.Js include video conferencing apps, chat servers, eCommerce software, and collaborative online gaming."
+    },
+
+    {
+      "id": "a713ee936ff5574273f0f769f5c5b20e",
+      
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_students": 27155,
+      "title": "The Complete MongoDB Course 2022",
+      "author": {
+        "name": "Malvik vagadia",
+        "published_date": "2022-08-24",
+		"price" : "$18.99",
+        "img": "https://i.ytimg.com/vi/WWk-4q3wiV0/maxresdefault.jpg"
+      },
+   
+      "image_url": "https://i.ytimg.com/vi/WWk-4q3wiV0/maxresdefault.jpg",
+      "details": "MongoDB is an document-oriented database designed to allow developers to scale their applications to meet scalability demands. MongoDB features a flexible document model that allows for accelerated development productivity so that you can release better applications, faster.Have a detailed understanding of MongoDB databases and how they work.Build knowledge across the MongoDB product ecosystem.CRUD (Create, Read, Update, Delete) Operations.Query data using the Aggregation Framework."
+    },
+
+    {
+      "id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+      
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_students": 2008,
+      "title": "Master Laravel with GraphQL, Vue.js and Tailwind",
+      "author": {
+        "name": "Piotr Jura",
+        "published_date": "2022-08-24",
+		"price" : "$18.99",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOBsGyAQwh-xetth2ni2L6qSuhMLiObQDO0tMjS5HWwijaCKwbSvTdZWmmj9PjqoQnkQA&usqp=CAU"
+      },
+   
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOBsGyAQwh-xetth2ni2L6qSuhMLiObQDO0tMjS5HWwijaCKwbSvTdZWmmj9PjqoQnkQA&usqp=CAU",
+      "details": "Learn GraphQL in Laravel PHP Framework, how to build SPA using Vue.js & Tailwind, build 2 projects.Learn GraphQL,Creating GraphQL Server using Laravel PHP Framework,Building SPA in Vue JavaScript FrameworkTailwind CSS deep dive,"
+    }
+
+]
